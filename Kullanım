@@ -1,0 +1,4 @@
+Kullanım:
+cd (dosya-konumu)
+python sms.py
+istediğiniz numara 10 haneli enter
